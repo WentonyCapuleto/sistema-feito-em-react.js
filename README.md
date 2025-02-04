@@ -1,3 +1,5 @@
+# A pasta do front end está separada da pasta do backend e precisara colocar o frontend dentro da pasta do backend que é a pasta testeareaarena
+
 # Projeto: React + Laravel + MySQL + Docker + Kubernetes
 
 ## 📌 Descrição
