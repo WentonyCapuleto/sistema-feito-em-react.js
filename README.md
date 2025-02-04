@@ -1,4 +1,4 @@
-# A pasta do front end está separada da pasta do backend e precisara colocar o frontend dentro da pasta do backend que é a pasta testeareaarena
+# A pasta do front end está separada da pasta do backend e precisara colocar o frontend dentro da pasta do backend que é a pasta testeareaarena, a pasta do backend esta sem um arquivo chamado node_modules que precisa ficar dentro do backend para funcionar(arquivo muito grande para colocar tudo junto
 
 # Projeto: React + Laravel + MySQL + Docker + Kubernetes
 
